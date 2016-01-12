@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+}
+.header{
+    background-color: black;
+    height: 80px
+}
+.name{
+    display: inline-block;
+    color: red;
+    font-size: em;
+    padding-top: 19px
+}
+.nav{
+    display: inline-block;
+    margin-left: 650px
+}
+.nav a{
+    padding-left: 25px;
+    text-decoration: none;
+    color: white;    
+}
+.nav a:hover{
+    color:;
+}
+.about-me h2{
+    font-size: 2em;
+    text-align: center;
+}
+.about-me p{
+    font-size: 1.5em;
+    padding-left: 15%;
+    padding-right: 15%
+}
+.portfolio img{
+    display: inline-block;
+    float: left;
+    margin-top: 100px;
+    margin-left: 20%;
+    padding-left: 45px;
+}
+form{
+    margin-left: 15%;
+    margin-top: 120px;
+}
+.box{
+    height: 50px;
+    background-color: #DDF0F8;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 20px;
+}
+.box1{
+    height: 100px;
+    background-color: #DDF0F8;
+    border-radius: 10px;
+    border: none;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+button{
+    width: 980px;
+    background-color: #1F8BC3;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    color: white;
+    font-size: 2em;
+    margin-bottom: 35px;
+}
+button:hover{
+    font-size: 2.2em;
+}
+.footer{
+    padding-left: 60px;
+    background-color: #2B2C34;
+}
+.footer img{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer .social-network{
+    margin-left: 800px;
+    height: 20px;
+}
+.footer .small{
+    height:20px;
+}
+.copyright{
+    background-color: black;
+}
+.copyright p{
+    text-align: center;
+    padding-bottom:5px;
+    padding-top: 5px;
+    color: white;
+}
